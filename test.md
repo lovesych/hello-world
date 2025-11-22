@@ -1,5 +1,10 @@
 # 一级标题
 
+### 引用
+>记录生活
+
+
+
 ### 代码高亮
 ```python
 def findLinear(numbers):  # find a & b of linear sequence
